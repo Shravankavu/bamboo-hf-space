@@ -1,0 +1,6 @@
+flask
+flask-cors
+tensorflow==2.18.0
+pillow
+numpy
+ai_edge_litert  # Add LiteRT for TFLite inference
